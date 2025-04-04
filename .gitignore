@@ -1,0 +1,19 @@
+# Python 가상환경
+venv/
+
+# 컴파일 및 캐시 파일
+__pycache__/
+*.pyc
+
+# 환경 변수 파일
+.env
+
+# 출력 결과
+output/
+
+# 기타 임시 파일
+*.log
+.DS_Store
+
+# ngrok 실행 파일
+ngrok.exe
